@@ -2,7 +2,7 @@
 
 
 # GAMING
-Also see `[snippets/](snippets/)`
+Also see [snippets/](snippets/)
 
 ## Logitech G HUB Profiles
 For the G604 mouse.
