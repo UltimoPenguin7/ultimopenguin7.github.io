@@ -1,0 +1,180 @@
+{
+  "analytics": {
+    "enabled": false
+  }, 
+  "discord_applet_shown": true, 
+  "gameApplets": {
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Assetto Corsa|AssettoCorsaArxApplet.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "profile_associated_but_game_not_found": true, 
+        "profile_guid": "{9E6D8C2F-0983-4008-8EE3-EC5554C88CAF}", 
+        "type": "never"
+      }, 
+      "name": "Assetto Corsa", 
+      "support": {
+        "arx": {
+          "enabled": true, 
+          "support": true
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }, 
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Audio Visualizer|Audio_Visualizer_Arx_Applet.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "type": "never"
+      }, 
+      "name": "Audio Visualizer", 
+      "support": {
+        "arx": {
+          "enabled": false, 
+          "support": false
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }, 
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Counter Strike - GO|CS_GO_Arx_Applet.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "profile_associated_but_game_not_found": true, 
+        "profile_guid": "{A2606DAA-7B0C-4CA6-B203-2E86E5BE3325}", 
+        "type": "never"
+      }, 
+      "name": "Counter Strike - GO", 
+      "support": {
+        "arx": {
+          "enabled": true, 
+          "support": true
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }, 
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Discord|logitechg_discord.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "profile_associated_but_game_not_found": false, 
+        "profile_guid": "", 
+        "type": "never"
+      }, 
+      "name": "Discord", 
+      "support": {
+        "arx": {
+          "enabled": false, 
+          "support": false
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }, 
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Dota 2|Dota2ArxApplet.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "profile_associated_but_game_not_found": true, 
+        "profile_guid": "{306FB93B-96A8-43EB-9B5A-352D93EEE712}", 
+        "type": "never"
+      }, 
+      "name": "Dota 2", 
+      "support": {
+        "arx": {
+          "enabled": true, 
+          "support": true
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }, 
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Screen Sampler|ScreenSampler.exe": {
+      "id": "scan_from_known_folder", 
+      "launch": {
+        "type": "never"
+      }, 
+      "name": "Screen Sampler", 
+      "support": {
+        "arx": {
+          "enabled": false, 
+          "support": false
+        }, 
+        "led": {
+          "enabled": true, 
+          "support": true
+        }
+      }
+    }
+  }, 
+  "lcd": {
+    "applets": {
+      "c86a": {
+        "appPath": "C:/Program Files/Logitech Gaming Software/LCore.exe", 
+        "autostartable": false, 
+        "format": 0, 
+        "iconPath": "", 
+        "name": "G-Series Profile Selector"
+      }, 
+      "c872": {
+        "appPath": "C:/Program Files/Logitech Gaming Software/LCore.exe", 
+        "autostartable": false, 
+        "format": 0, 
+        "iconPath": "", 
+        "name": "Logitech Gaming Profiler"
+      }, 
+      "d9e3": {
+        "appPath": "C:/Program Files/Logitech Gaming Software/LCore.exe", 
+        "autostartable": false, 
+        "format": 1, 
+        "iconPath": "", 
+        "name": "G-Series Profile Selector"
+      }, 
+      "d9fb": {
+        "appPath": "C:/Program Files/Logitech Gaming Software/LCore.exe", 
+        "autostartable": false, 
+        "format": 1, 
+        "iconPath": "", 
+        "name": "Logitech Gaming Profiler"
+      }
+    }
+  }, 
+  "mainapp": {
+    "autostart": true
+  }, 
+  "mainwindow": {
+    "dynamicImageDownload": true, 
+    "enableAppletDeviceView": true, 
+    "hasAppletMgrBeenSeen": true, 
+    "lastUsedDevice": "Logitech.Gaming.Arx.Device", 
+    "useEnhancedGraphics": false
+  }, 
+  "mobile": {
+    "service_guid": "{3fabe7e4-8ce4-45c7-a903-24665e387523}"
+  }, 
+  "profiler": {
+    "defaultProfile": "{09D92D75-3C8C-4723-B06C-4090BCB899C0}", 
+    "enableQuickMacroDelays": false, 
+    "joystickMouseSpeed": 127, 
+    "showProfileActivationOnLCD": true, 
+    "showQuickMacrosOnLCD": true, 
+    "sp": {
+      "hasMigrated": true
+    }
+  }, 
+  "shouldfocus": "", 
+  "splashscreen": {
+    "G560_first": true
+  }, 
+  "sync_effect_settings": {
+    "settings": null
+  }
+}
