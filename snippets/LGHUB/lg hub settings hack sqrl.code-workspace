@@ -1,0 +1,23 @@
+      {
+        "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Building",
+        "id": "2d983471-1962-40aa-b2c8-aa801629371f",
+        "macro": {
+          "actionName": "F1",
+          "keystroke": {
+            "code": 58
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Wall",
+        "profileId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+        "readOnly": true
+      },
+
+
+
+          "actionName": "Z",
+          "keystroke": {
+            "code": 29
+          },
